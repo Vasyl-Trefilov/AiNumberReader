@@ -1,0 +1,5 @@
+/data/
+/datasets/
+/mnist/
+/venv/
+__pycache__/
